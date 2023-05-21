@@ -14,8 +14,19 @@
   color: white;
   border-bottom: 3px solid rgb(168, 78, 128);
 }
+.header-span {
+  color: rgb(168, 78, 128);
+}
+.a-1 {
+  color: rgb(168, 78, 128);
+}
 .header-h3 {
   margin-left: 1rem;
+}
+.header-section {
+  display: flex;
+  gap: 1rem;
+  margin-right: 1rem;
 }
 .main-section-1 {
   background-image: url(../img/showcase.jpg);
