@@ -45,6 +45,7 @@
   display: flex;
   justify-content: center;
   text-align: center;
+  gap: 1.5rem;
 }
 .main-section-article-img {
   height: 5rem;
@@ -54,4 +55,16 @@
 .main-section-article-p {
   margin-top: 1rem;
   margin-bottom: 2rem;
+}
+.footer {
+  background-color: #35424a;
+  height: 100px;
+  color: white;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.footer-img {
+  height: 2rem;
 }
