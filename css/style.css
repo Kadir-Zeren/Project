@@ -17,7 +17,27 @@
 .header-h3 {
   margin-left: 1rem;
 }
+.main-section-1 {
+  background-image: url(../img/showcase.jpg);
+  background-size: cover;
+  height: 50vh;
+  display: flex;
+  color: white;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+}
 .header-section a {
   color: white;
   text-decoration: none;
+}
+.main-section-2 {
+  background-color: #35424a;
+  height: 5rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  color: white;
+  padding: 5px;
 }
