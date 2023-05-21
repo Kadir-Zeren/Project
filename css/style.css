@@ -52,6 +52,13 @@
   color: white;
   padding: 5px;
 }
+.main-section-2 h3 {
+  margin-left: 1rem;
+}
+.main-section-2 form {
+  margin-right: 1rem;
+}
+
 .main-section-3 {
   display: flex;
   justify-content: center;
