@@ -41,3 +41,17 @@
   color: white;
   padding: 5px;
 }
+.main-section-3 {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+.main-section-article-img {
+  height: 5rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+}
+.main-section-article-p {
+  margin-top: 1rem;
+  margin-bottom: 2rem;
+}
