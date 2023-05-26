@@ -58,7 +58,16 @@
 .main-section-2 form {
   margin-right: 1rem;
 }
-
+.main-section-2-input{
+  padding: 0.3rem;
+}
+.main-section-2-button{
+  padding: 0.3rem;
+  background-color: rgb(232, 73, 15);
+  width: 5rem;
+  outline: none;
+  color: white;
+}
 .main-section-3 {
   display: flex;
   justify-content: center;

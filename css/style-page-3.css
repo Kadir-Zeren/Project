@@ -1,1 +1,21 @@
 @import url(./style-page-2.css);
+.main {
+  display: flex;
+  justify-content: space-between;
+}
+.main-section-article {
+  border: solid 1px;
+  margin-top: 1rem;
+}
+.main-section-article-p {
+  text-align: ;
+}
+.page-3-main-section-2 {
+  background-color: brown;
+  width: 20rem;
+  height: 15rem;
+  margin-right: 2rem;
+}
+input{
+    width: 15rem;
+}
