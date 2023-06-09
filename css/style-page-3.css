@@ -7,15 +7,29 @@
   border: solid 1px;
   margin-top: 1rem;
 }
-.main-section-article-p {
-  text-align: ;
-}
+
 .page-3-main-section-2 {
-  background-color: brown;
+  background-color: #35424a;
   width: 20rem;
   height: 15rem;
   margin-right: 2rem;
+  color: white;
 }
-input{
-    width: 15rem;
+input {
+  width: 15rem;
+}
+textarea {
+  resize: none;
+  height: 3rem;
+  width: 15rem;
+}
+button {
+  padding: 0.3rem;
+  background-color: rgb(232, 73, 15);
+  width: 5rem;
+  outline: none;
+  color: white;
+}
+.page-3-main-section-2-h2 {
+  color: #a84e7e;
 }
